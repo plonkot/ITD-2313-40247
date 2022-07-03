@@ -1,0 +1,2 @@
+lonko 1000 2
+pierre 1200 5
